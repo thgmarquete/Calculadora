@@ -1,0 +1,27 @@
+body{
+     background-color: brown; 
+     
+
+
+
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    background-color: cornsilk;
+    border-style: 10px 10px 10px solid;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin-top: -20%;
+    
+}
